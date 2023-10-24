@@ -1,0 +1,6 @@
+const allowedOrigins = [
+  "https://Yumdish.vercel.app",
+  "https://Yumdish-backend.onrender.com",
+];
+
+module.exports = allowedOrigins;
